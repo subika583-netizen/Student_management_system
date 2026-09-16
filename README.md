@@ -1,11 +1,63 @@
-<div align="center">
+# Student Management System – CRUD Based Web Application
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+## 📌 Project Overview
 
-  <h1>Built with AI Studio</h2>
+The Student Management System is a full-stack web application developed to manage student records efficiently. It implements complete CRUD operations — Create, Read, Update, and Delete.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+The application provides a simple and user-friendly interface for adding, viewing, updating, searching, and deleting student information.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 🎯 Objectives
 
-</div>
+- To develop a functional CRUD-based web application.
+- To manage student records using a database.
+- To connect frontend with backend using REST APIs.
+- To implement data validation and error handling.
+- To understand full-stack web application development.
+
+## ✨ Features
+
+- ➕ Add new student records
+- 👀 View all student records
+- ✏️ Update student details
+- 🗑️ Delete student records
+- 🔍 Search students
+- ✅ Form validation
+- ⚠️ Error and success messages
+- 📱 Responsive user interface
+- 💾 Persistent database storage
+
+## 🛠️ Technologies Used
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
+- Python
+- Django
+- Django REST Framework
+
+### Database
+- SQLite
+
+### API Testing
+- Postman
+
+### Version Control
+- Git
+- GitHub
+
+## 🏗️ System Architecture
+
+```text
+User
+  ↓
+Frontend
+HTML + CSS + JavaScript
+  ↓
+REST API
+  ↓
+Django REST Framework
+  ↓
+SQLite Database

@@ -1,0 +1,58 @@
+import { Student } from '../types';
+
+export const INITIAL_STUDENTS: Student[] = [
+  {
+    student_id: 'CS2026-001',
+    name: 'Alan Turing',
+    email: 'alan.turing@college.edu',
+    phone: '9876543210',
+    department: 'Computer Science',
+    year: 3,
+    created_at: '2026-09-10T09:30:00.000Z',
+  },
+  {
+    student_id: 'CS2026-002',
+    name: 'Ada Lovelace',
+    email: 'ada.lovelace@college.edu',
+    phone: '9876543211',
+    department: 'Computer Science',
+    year: 4,
+    created_at: '2026-09-11T10:15:00.000Z',
+  },
+  {
+    student_id: 'IT2026-045',
+    name: 'Grace Hopper',
+    email: 'grace.hopper@college.edu',
+    phone: '9876543212',
+    department: 'Information Technology',
+    year: 2,
+    created_at: '2026-09-12T11:45:00.000Z',
+  },
+  {
+    student_id: 'EC2026-089',
+    name: 'Claude Shannon',
+    email: 'claude.shannon@college.edu',
+    phone: '9876543213',
+    department: 'Electronics & Communication',
+    year: 3,
+    created_at: '2026-09-13T14:20:00.000Z',
+  },
+  {
+    student_id: 'ME2026-102',
+    name: 'Nikola Tesla',
+    email: 'nikola.tesla@college.edu',
+    phone: '9876543214',
+    department: 'Mechanical Engineering',
+    year: 1,
+    created_at: '2026-09-14T08:50:00.000Z',
+  },
+  {
+    student_id: 'CV2026-033',
+    name: 'Katherine Johnson',
+    email: 'katherine.johnson@college.edu',
+    phone: '9876543215',
+    department: 'Civil Engineering',
+    year: 2,
+    created_at: '2026-09-15T16:05:00.000Z',
+  },
+];

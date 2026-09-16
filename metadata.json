@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "A full-stack Django and React student management system demonstrating complete CRUD operations, server-side and client-side validation, unit testing, and college viva submission resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
